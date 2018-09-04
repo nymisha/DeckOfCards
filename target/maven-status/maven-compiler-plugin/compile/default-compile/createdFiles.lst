@@ -1,0 +1,4 @@
+com/appian/beans/Cards.class
+com/appian/enums/CardSuits.class
+com/appian/mainclass/DeckofCards.class
+com/appian/enums/CardValues.class
